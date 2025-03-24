@@ -1,0 +1,164 @@
+{
+    "organizations": [
+        {
+            "_id": "41",
+            "url": "https://www.porter.net/",
+            "external_id": "afd4bf0f-a287-4e7c-b358-d87aacfa707b",
+            "name": "Baldwin LLC",
+            "domain": "jones.com",
+            "names": "chance",
+            "created_at": "1983-12-12T02:55:14",
+            "details": "Community major political.",
+            "shared_tickets": "5",
+            "tags": [
+                "else",
+                "friend",
+                "industry"
+            ]
+        },
+        {
+            "_id": "6",
+            "url": "https://www.johnson.biz/",
+            "external_id": "c58b2592-c92d-4702-925d-89ce6427d40b",
+            "name": "Jones, Roberts and Anthony",
+            "domain": "donaldson-castro.info",
+            "names": "respond",
+            "created_at": "1973-05-30T05:50:36",
+            "details": "May particularly western film short professional produce.",
+            "shared_tickets": "4",
+            "tags": [
+                "determine",
+                "make",
+                "rock"
+            ]
+        },
+        {
+            "_id": "16",
+            "url": "http://baldwin.com/",
+            "external_id": "93845f4b-6b74-4611-bac8-b53a7ce857d0",
+            "name": "Leblanc, Pace and Perez",
+            "domain": "jacobs-jones.com",
+            "names": "word",
+            "created_at": "1989-03-16T03:44:26",
+            "details": "Cultural walk girl peace.",
+            "shared_tickets": "3",
+            "tags": [
+                "adult",
+                "ball",
+                "sister"
+            ]
+        },
+        {
+            "_id": "15",
+            "url": "https://long-white.info/",
+            "external_id": "3297f994-c025-409e-920e-33c458d31405",
+            "name": "Brown, Brown and Rhodes",
+            "domain": "perkins.com",
+            "names": "field",
+            "created_at": "2017-08-14T10:11:43",
+            "details": "Rather without human.",
+            "shared_tickets": "4",
+            "tags": [
+                "cut",
+                "human",
+                "TV"
+            ]
+        },
+        {
+            "_id": "40",
+            "url": "http://owens-martinez.com/",
+            "external_id": "18f9ff23-069e-4457-a677-5bd9e85327d4",
+            "name": "Rubio-Charles",
+            "domain": "elliott.info",
+            "names": "study",
+            "created_at": "2010-07-25T10:11:22",
+            "details": "Would any citizen state news really we Mr.",
+            "shared_tickets": "1",
+            "tags": [
+                "know",
+                "today",
+                "worry"
+            ]
+        },
+        {
+            "_id": "31",
+            "url": "https://www.ruiz.net/",
+            "external_id": "4e461e3c-291a-4207-b409-8fe6adcd1832",
+            "name": "Price, Houston and Evans",
+            "domain": "howard-phillips.biz",
+            "names": "democratic",
+            "created_at": "1982-01-13T07:38:40",
+            "details": "Present employee collection material six.",
+            "shared_tickets": "4",
+            "tags": [
+                "fund",
+                "his",
+                "agency"
+            ]
+        },
+        {
+            "_id": "34",
+            "url": "https://www.richard.com/",
+            "external_id": "f72490e1-fb66-446e-805c-486b0899e946",
+            "name": "Hendrix Ltd",
+            "domain": "wallace.com",
+            "names": "service",
+            "created_at": "1973-11-18T22:37:06",
+            "details": "This almost before it.",
+            "shared_tickets": "4",
+            "tags": [
+                "heavy",
+                "anything",
+                "something"
+            ]
+        },
+        {
+            "_id": "26",
+            "url": "http://www.moore-jackson.org/",
+            "external_id": "2548f82f-e80e-4f82-ae81-957e14226f47",
+            "name": "Hendrix-Mcdonald",
+            "domain": "clark.com",
+            "names": "either",
+            "created_at": "1995-12-16T19:34:17",
+            "details": "Much true American protect amount.",
+            "shared_tickets": "2",
+            "tags": [
+                "whatever",
+                "dog",
+                "parent"
+            ]
+        },
+        {
+            "_id": "15",
+            "url": "http://jones.com/",
+            "external_id": "1a8f9486-bd7e-491a-bbae-40e92711d20a",
+            "name": "Reynolds, Rios and Andrews",
+            "domain": "byrd-bowman.com",
+            "names": "also",
+            "created_at": "2008-10-03T20:46:08",
+            "details": "Forward subject senior.",
+            "shared_tickets": "4",
+            "tags": [
+                "continue",
+                "tell",
+                "issue"
+            ]
+        },
+        {
+            "_id": "29",
+            "url": "https://www.herrera.com/",
+            "external_id": "7be68003-b415-431a-8461-fc5cc30b481c",
+            "name": "Howard, Pierce and Johnson",
+            "domain": "hopkins.com",
+            "names": "staff",
+            "created_at": "2003-11-25T12:25:41",
+            "details": "City become third before suddenly where better pressure.",
+            "shared_tickets": "4",
+            "tags": [
+                "upon",
+                "able",
+                "assume"
+            ]
+        }
+    ]
+}
