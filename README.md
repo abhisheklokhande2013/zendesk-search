@@ -49,7 +49,7 @@ Zendesk Search is a command-line application that allows users to search through
 ## Install Dependencies
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/zendesk-search-cli.git
+   git clone https://github.com/abhisheklokhande2013/zendesk-search.git
    cd zendesk-search
    ```
 
